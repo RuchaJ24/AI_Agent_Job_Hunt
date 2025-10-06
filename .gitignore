@@ -1,0 +1,8 @@
+# Virtual environment
+my_new_env/
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
